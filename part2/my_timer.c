@@ -10,7 +10,7 @@ MODULE_AUTHOR("cop4610t");
 MODULE_DESCRIPTION("Timer Linux Kernel Module");
 MODULE_VERSION("1.0");
 
-#define PROC_NAME "my_timer"
+#define PROC_NAME "timer"
 #define PERMS 0666
 #define PARENT NULL
 #define BUF_LEN 100
